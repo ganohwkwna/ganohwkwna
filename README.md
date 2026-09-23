@@ -17,11 +17,11 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajo en aplicaciones web full stack
-- 🌱 Estoy aprendiendo nuevas tecnologías y frameworks
-- 👯 Me interesa colaborar en proyectos de código abierto
-- 💬 Pregúntame sobre JavaScript, React, Node.js y bases de datos
-- ⚡ Dato curioso: Programo junto a mis 2 Gatas :)
+-  Actualmente trabajo en aplicaciones web full stack
+-  Estoy aprendiendo nuevas tecnologías y frameworks
+-  Me interesa colaborar en proyectos de código abierto
+-  Pregúntame sobre JavaScript, React, Node.js y bases de datos
+-  Dato curioso: Programo junto a mis 2 Gatas :)
 
 ---
 
