@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 -  Actualmente trabajo en aplicaciones web full stack
 -  Estoy aprendiendo nuevas tecnologías y frameworks
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 📬 Contacto
+## Contacto
 Estoy abierto a colaboraciones, proyectos e intercambio de ideas. ¡Escríbeme y creemos algo genial! 
 <p align="center">
   <a href="https://github.com/ganohwkwna" target="_blank">
