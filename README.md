@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="55%" valign="middle" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&multiline=true&repeat=true&width=450&height=100&lines=%C2%A1Hola!+Soy+Gabriel+Torres+:);Full+Stack+Developer;Frontend+%26+Backend" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&multiline=true&repeat=true&width=450&height=100&lines=%C2%A1Hola!+Soy+Gabriel+Torres+:); alt="Typing SVG" />
     </td>
     <td width="45%" align="center">
       <img src="https://media1.tenor.com/m/Yr8dqEtGuo0AAAAC/bleach-kuchiki-rukia.gif" alt="Kuchiki Rukia" width="280"/>
