@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="55%" valign="middle" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06b6d4&center=true&vCenter=true&multiline=true&repeat=true&width=450&height=100&lines=%C2%A1Hola!+Soy+Gabriel+Torres+:); alt="Typing SVG" />
+      <img src="https://denvercoder1.github.io/github-readme-typing-svg/?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=500&lines=Hola!%20Soy%20Gabriel%20Torres%3A)%0A%C2%BFTrabajamos%20juntos%3F&repeat=true" alt="Hola! Soy Gabriel Torres" />
     </td>
     <td width="45%" align="center">
       <img src="https://media1.tenor.com/m/Yr8dqEtGuo0AAAAC/bleach-kuchiki-rukia.gif" alt="Kuchiki Rukia" width="280"/>
@@ -13,15 +13,19 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://denvercoder1.github.io/github-readme-typing-svg/?font=Fira+Code&weight=700&size=28&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=%C2%BFTrabajamos%20juntos%3F&repeat=true" alt="¿Trabajamos juntos?" />
+</p>
+
 ---
 
 ## Sobre mí
 
--  Actualmente trabajo en aplicaciones web full stack
--  Estoy aprendiendo nuevas tecnologías y frameworks
--  Me interesa colaborar en proyectos de código abierto
--  Pregúntame sobre JavaScript, React, Node.js y bases de datos
--  Dato curioso: Programo junto a mis 2 Gatas :)
+- Actualmente trabajo en aplicaciones web full stack
+- Estoy aprendiendo nuevas tecnologías y frameworks
+- Me interesa colaborar en proyectos de código abierto
+- Pregúntame sobre JavaScript, React, Node.js y bases de datos
+- Dato curioso: Programo junto a mis 2 Gatas :)
 
 ---
 
@@ -45,7 +49,9 @@
 ---
 
 ## Contacto
-Estoy abierto a colaboraciones, proyectos e intercambio de ideas. ¡Escríbeme y creemos algo genial! 
+
+Estoy abierto a colaboraciones, proyectos e intercambio de ideas. ¡Escríbeme y creemos algo genial!
+
 <p align="center">
   <a href="https://github.com/ganohwkwna" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -57,5 +63,3 @@ Estoy abierto a colaboraciones, proyectos e intercambio de ideas. ¡Escríbeme y
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
-
----
