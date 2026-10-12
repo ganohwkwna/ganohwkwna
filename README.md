@@ -5,17 +5,14 @@
 <table>
   <tr>
     <td width="55%" valign="middle" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=06B6D4&center=true&vCenter=true&width=520&lines=Hola!%20Soy%20Gabriel%20Torres%3A)%3B%C2%BFTrabajamos%20juntos%3F&multiline=true&repeat=true" alt="Hola! Soy Gabriel Torres" width="500"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=06B6D4&center=true&vCenter=true&width=520&lines=Hola!%20Soy%20Gabriel%20Torres%3A)&repeat=true" alt="Hola! Soy Gabriel Torres" width="500" height="60"/><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0891b2&center=true&vCenter=true&width=520&lines=%C2%BFTrabajamos%20juntos%3F&repeat=true" alt="¿Trabajamos juntos?" width="500" height="60"/>
     </td>
     <td width="45%" align="center">
       <img src="https://media1.tenor.com/m/Yr8dqEtGuo0AAAAC/bleach-kuchiki-rukia.gif" alt="Kuchiki Rukia" width="280"/>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0891b2&center=true&vCenter=true&width=620&lines=%C2%BFTrabajamos%20juntos%3F&repeat=true" alt="¿Trabajamos juntos?" width="600"/>
-</p>
 
 ---
 
